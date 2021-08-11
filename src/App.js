@@ -16,7 +16,7 @@ class App extends Component {
     // var bufferLong = distanceLong * 0.05;
     return (
       <div>
-        <h3 style={{ textAlign: "center" }}> The district's population of Istanbul</h3>
+        <h3 style={{ textAlign: "center" }}> The district's  population of Istanbul</h3>
         <MapContainer
           style={{ height: "880px", width: "100%" }}
           zoom={10}
